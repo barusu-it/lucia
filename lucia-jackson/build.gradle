@@ -10,6 +10,8 @@ dependencies {
     implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jdk8'
     implementation 'com.fasterxml.jackson.datatype:jackson-datatype-joda'
 
+    implementation 'org.apache.commons:commons-lang3'
+
     testImplementation 'junit:junit'
     testImplementation 'ch.qos.logback:logback-classic'
 
