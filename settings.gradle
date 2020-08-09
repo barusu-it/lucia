@@ -1,3 +1,4 @@
 rootProject.name = 'lucia'
 include 'lucia-jackson'
+include 'lucia-mapstruct'
 
